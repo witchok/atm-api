@@ -1,0 +1,8 @@
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL.Models\bin\Debug\netcoreapp2.1\ATMBankDAL.Models.deps.json
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL.Models\bin\Debug\netcoreapp2.1\ATMBankDAL.Models.dll
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL.Models\bin\Debug\netcoreapp2.1\ATMBankDAL.Models.pdb
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL.Models\obj\Debug\netcoreapp2.1\ATMBankDAL.Models.csproj.CoreCompileInputs.cache
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL.Models\obj\Debug\netcoreapp2.1\ATMBankDAL.Models.AssemblyInfoInputs.cache
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL.Models\obj\Debug\netcoreapp2.1\ATMBankDAL.Models.AssemblyInfo.cs
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL.Models\obj\Debug\netcoreapp2.1\ATMBankDAL.Models.dll
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL.Models\obj\Debug\netcoreapp2.1\ATMBankDAL.Models.pdb

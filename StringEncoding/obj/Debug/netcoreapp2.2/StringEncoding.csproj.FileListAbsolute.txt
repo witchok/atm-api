@@ -1,0 +1,9 @@
+D:\work\c#\dataart\ATMBankDAL\StringEncoding\bin\Debug\netcoreapp2.2\StringEncoding.deps.json
+D:\work\c#\dataart\ATMBankDAL\StringEncoding\bin\Debug\netcoreapp2.2\StringEncoding.dll
+D:\work\c#\dataart\ATMBankDAL\StringEncoding\bin\Debug\netcoreapp2.2\StringEncoding.pdb
+D:\work\c#\dataart\ATMBankDAL\StringEncoding\obj\Debug\netcoreapp2.2\StringEncoding.csproj.CoreCompileInputs.cache
+D:\work\c#\dataart\ATMBankDAL\StringEncoding\obj\Debug\netcoreapp2.2\StringEncoding.AssemblyInfoInputs.cache
+D:\work\c#\dataart\ATMBankDAL\StringEncoding\obj\Debug\netcoreapp2.2\StringEncoding.AssemblyInfo.cs
+D:\work\c#\dataart\ATMBankDAL\StringEncoding\obj\Debug\netcoreapp2.2\StringEncoding.dll
+D:\work\c#\dataart\ATMBankDAL\StringEncoding\obj\Debug\netcoreapp2.2\StringEncoding.pdb
+D:\work\c#\dataart\ATMBankDAL\StringEncoding\obj\Debug\netcoreapp2.2\StringEncoding.csprojAssemblyReference.cache

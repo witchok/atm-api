@@ -1,0 +1,16 @@
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\bin\Debug\netcoreapp2.1\ATMBankDAL.deps.json
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\bin\Debug\netcoreapp2.1\ATMBankDAL.dll
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\obj\Debug\netcoreapp2.1\ATMBankDAL.csprojAssemblyReference.cache
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\obj\Debug\netcoreapp2.1\ATMBankDAL.csproj.CoreCompileInputs.cache
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\obj\Debug\netcoreapp2.1\ATMBankDAL.AssemblyInfoInputs.cache
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\obj\Debug\netcoreapp2.1\ATMBankDAL.AssemblyInfo.cs
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\bin\Debug\netcoreapp2.1\ATMBankDAL.runtimeconfig.json
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\bin\Debug\netcoreapp2.1\ATMBankDAL.runtimeconfig.dev.json
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\bin\Debug\netcoreapp2.1\ATMBankDAL.pdb
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\bin\Debug\netcoreapp2.1\ATMBankDAL.Models.dll
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\bin\Debug\netcoreapp2.1\ATMBankDAL.Models.pdb
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\obj\Debug\netcoreapp2.1\ATMBankDAL.csproj.CopyComplete
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\obj\Debug\netcoreapp2.1\ATMBankDAL.dll
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\obj\Debug\netcoreapp2.1\ATMBankDAL.pdb
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\bin\Debug\netcoreapp2.1\StringEncoding.dll
+D:\work\c#\dataart\ATMBankDAL\ATMBankDAL\bin\Debug\netcoreapp2.1\StringEncoding.pdb
